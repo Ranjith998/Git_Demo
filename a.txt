@@ -1,4 +1,4 @@
-yes,it is update,
+No,it is update,
 Hi,
 hello,
 how are you?
